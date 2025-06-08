@@ -1,0 +1,9 @@
+[package]
+name = "exam_18November2022"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+etherparse = "0.18.0"
+pcap = "2.2.0"
+pnet = "0.35.0"
